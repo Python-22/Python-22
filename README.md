@@ -6,3 +6,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Python-22&layout=compact&theme=dark"></p>
                          
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Python-22&show_icons=true&theme=dark"></p>
+
+
+[discord] Python#1000
