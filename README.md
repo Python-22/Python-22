@@ -8,4 +8,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Python-22&show_icons=true&theme=dark"></p>
 
 
-[discord] Python#1000
+<p align="center"> Discord is Python#1000 </p>
