@@ -6,4 +6,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Python-22&show_icons=true&theme=dark"></p>
 
 
-<p align="center"> Discord is Python#2703 </p>
+<p align="center"> Discord is Python#2830 </p>
